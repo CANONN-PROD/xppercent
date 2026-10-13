@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="xppercent"
+version="1.0.0"
+displayName="XP Percent Display"
+authors="Developer"
+description="Displays current level XP percentage next to the experience bar."
